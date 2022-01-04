@@ -34,10 +34,10 @@ This application is for Publishing and Consuming messages in a live stream using
         ```
      
   > Now you can see the message on consumer cli
-  
+## Note
   > - you can create multiple consumer who can subscribe diffrent topics 
   > - and also can create multiple producer who can write msg on a different topics
   > - for creating new consumer or producer just open new terminal and run consumer.go or producer.go scripts. 
   
-  
+
     
