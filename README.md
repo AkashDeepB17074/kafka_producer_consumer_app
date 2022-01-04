@@ -1,5 +1,5 @@
 # kafka_producer_consumer_app
-This application is for Publishing and Consuming messages in a live stream using golang
+This application is for Publishing and Consuming live messages using event streaming platfrom kafka and golang
 
 ## How to run 
   - First run docker file using command 
