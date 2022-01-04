@@ -6,7 +6,9 @@ This application is for Publishing and Consuming messages in a live stream using
     ```
     $ docker-compose up
     ```
-      > *do not kill the terminal* 
+      > - *do not kill the terminal*
+      > - *this docker file will form a cluster for your application so that you consumer and producer can communicate.*
+      > - *once the cluster is created you can run your consumer.go and producer.go files* 
       
       
   - Open new CLI then run consumer.go file using command
